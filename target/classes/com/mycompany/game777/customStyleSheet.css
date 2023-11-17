@@ -1,0 +1,43 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 27 paź 2023, 22:17:30
+    Author     : Lenovo
+*/
+
+.labels{
+    -fx-font-family: "Impact";
+    -fx-font-size:10pt;
+    -fx-text-fill:white;
+}
+
+.start-button{
+    -fx-font-family: "Impact";
+    -fx-font-size:18pt;
+    -fx-text-fill:white;
+    -fx-background-radius: 150;
+    -fx-pref-width: 96;
+    -fx-pref-height: 86;
+    -fx-background-color: #ae1414;
+}
+.start-button:hover{
+    -fx-background-color: #db1d1d;
+    -fx-text-fill:white;
+    -fx-background-radius: 150;
+
+}
+
+.add-button{
+    -fx-font-family: "Impact";
+    -fx-font-size:12pt;
+    -fx-text-fill:white;
+    -fx-background-radius: 150;
+    -fx-pref-width: 52;
+    -fx-pref-height: 48;
+    -fx-background-color: #9023bc;
+}
+.add-button:hover{
+    -fx-background-color: #dc71fd;
+}
